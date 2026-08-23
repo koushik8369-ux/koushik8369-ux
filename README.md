@@ -1,102 +1,96 @@
-.# 👋 Hi, I'm Koushik Gowda KS
+<div align="center">
 
-### 💻 Computer Science Engineering Student | Java Developer | AI & Web Development Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Koushik+Gowda+KS" alt="Koushik Gowda KS" />
 
-I’m a Computer Science Engineering student focused on building practical software projects and improving my problem-solving skills through hands-on development.
+### Computer Science Engineering Student
 
-I enjoy working with **Java, Python, C/C++, JavaScript, React, AI, and Web Development** and I’m currently building my foundation through real-world mini projects.
+**Java Developer • Web Development • AI/ML Enthusiast**
 
----
+SJCIT, Chikkaballapur
 
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering student
-- 💻 Currently strengthening Java and problem-solving fundamentals
-- 🌐 Interested in Web Development and 3D interactive experiences
-- 🤖 Interested in AI & Machine Learning
-- 🧩 I learn by building projects rather than only studying theory
-- 🎯 Goal: Become a software engineer who builds useful and impactful products
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Programming
-`Java` `Python` `C++ (Basic)`
+I am a Computer Science Engineering student interested in software development, problem solving, web technologies, and artificial intelligence.
+
+I enjoy learning by building practical applications and continuously improving my programming fundamentals.
+
+- Currently strengthening **Java and problem-solving**
+- Learning **Object-Oriented Programming and Web Development**
+- Exploring **AI and Machine Learning**
+- Interested in collaborating on **projects and hackathons**
+- Career goal: **Software Engineer**
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B_Basic-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Web Development
-`HTML` `CSS` `JavaScript` `React`
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Tools
-`Git` `GitHub` `VS Code` `Linux` `Figma`
 
-### Currently Learning
-`Java OOP` `Problem Solving` `Data Structures` `Full-Stack Development`
-
----
-
-## 📈 My Learning Journey
-
-```text
-Java Fundamentals
-       ↓
-Problem Solving
-       ↓
-Object-Oriented Programming
-       ↓
-Data Structures & Algorithms
-       ↓
-Web Development
-       ↓
-AI + Full-Stack Development
-       ↓
-Real-World Software Projects
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 🎯 Current Focus
+## Currently Learning
 
-```text
-☕ Java
-🧠 Problem Solving
-🏗️ Object-Oriented Programming
-🌐 Web Development
-🤖 AI / Machine Learning
-🚀 Building Real Projects
-```
+- Java & Object-Oriented Programming
+- Data Structures & Algorithms
+- Problem Solving
+- Web Development
+- React
+- AI & Machine Learning
 
 ---
 
-## 📊 GitHub
+## GitHub Statistics
 
-I use GitHub to document my learning journey, practice projects and experiments.
+<div align="center">
 
-⭐ Check out my repositories to see what I'm building.
+<img src="https://github-readme-stats.vercel.app/api?username=koushik8369-ux&show_icons=true&hide_border=true&rank_icon=github" height="160" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik8369-ux&hide_border=true" height="160" />
 
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Koushik Gowda KS](https://www.linkedin.com/in/koushik-gowda-k-s-552bb23ab)
-- 🐙 GitHub: [@koushik8369-ux](https://github.com/koushik8369-ux)
+</div>
 
 ---
 
-## ⚡ Developer Mindset
+## Connect
 
-> **Learn → Build → Break → Debug → Improve → Repeat**
+<div align="center">
 
-I believe consistent problem-solving and building projects are the fastest ways to become a better developer.
+<a href="https://github.com/koushik8369-ux">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/koushik-gowda-k-s-552bb23ab">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learn • Build • Improve**
+
+</div>
