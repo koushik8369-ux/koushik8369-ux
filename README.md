@@ -61,18 +61,6 @@ I enjoy learning by building practical applications and continuously improving m
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=koushik8369-ux&show_icons=true&hide_border=true&rank_icon=github" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik8369-ux&hide_border=true" height="160" />
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
