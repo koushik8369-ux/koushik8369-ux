@@ -51,7 +51,6 @@ I enjoy turning ideas into working software while continuously strengthening my 
 
 ### ☕ Backend Development
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square\&logo=fastapi\&logoColor=white)
@@ -93,30 +92,6 @@ An AI-powered career platform designed to help students and job seekers analyze 
 **Tech Stack:**
 
 `React` `Vite` `Java` `Spring Boot` `Spring Security` `MySQL/PostgreSQL` `REST API`
-
----
-
-### 🌾 AgriConnect — Smart Agriculture Marketplace
-
-A full-stack agriculture marketplace designed to connect **farmers directly with buyers** and reduce dependency on intermediaries.
-
-**Key Features:**
-
-* 🌱 Farmer-to-Buyer Marketplace
-* 📸 Crop Listings
-* 👨‍🌾 Farmer & Buyer Roles
-* 🔐 Authentication & Role-Based Access
-* 📊 Agriculture Market Information
-* 🤖 AI-based Crop Quality Assessment — planned
-* 📄 Digital Contracts — planned
-* 🚚 Transportation Assistance — planned
-
-**Tech Stack:**
-
-`React` `Vite` `Firebase` `Java` `Spring Boot` `REST API`
-
-🔗 **Repository:**
-https://github.com/koushik8369-ux/AgriConnect
 
 ---
 
