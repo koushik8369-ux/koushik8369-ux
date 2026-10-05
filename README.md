@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Koushik+Gowda+KS+%F0%9F%91%8B;Java+Full-Stack+Developer;Software+Engineer+in+Progress;AI%2FML+Enthusiast" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Koushik+Gowda+KS+%F0%9F%91%8B;Java+Full-Stack+Developer;Software+Engineer+in+Progress;Building+Real-World+Software;AI%2FML+Enthusiast" alt="Typing Animation"/>
 
 <br>
 
@@ -18,53 +18,53 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Koushik Gowda KS**, a Computer Science Engineering student interested in building practical software and solving real-world problems.
+I'm **Koushik Gowda KS**, a Computer Science Engineering student focused on building practical software and developing strong foundations in software engineering.
 
-Currently, I'm focused on **Java, Spring Boot, Full-Stack Development, Data Structures & Algorithms, and AI/ML**.
+My primary focus is **Java Full-Stack Development**, while continuously exploring **AI/ML, Data Structures & Algorithms, and modern web technologies**.
 
-* ☕ Strengthening **Java & Object-Oriented Programming**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🌐 Building **Full-Stack Web Applications**
-* ⚛️ Working with **React & Vite**
-* ☕ Developing backend applications with **Spring Boot**
-* 🔐 Learning **Spring Security & REST APIs**
-* 🗄️ Working with **MySQL & PostgreSQL**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🚀 Building projects to strengthen practical development skills
+- ☕ Building strong foundations in **Java & Object-Oriented Programming**
+- 🚀 Developing backend applications with **Spring Boot**
+- 🌐 Creating modern web applications with **React & Vite**
+- 🔐 Working with **Spring Security, Authentication & REST APIs**
+- 🗄️ Exploring **MySQL & PostgreSQL**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🛠️ Building projects that solve practical problems
+- 📚 Continuously improving software engineering skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-### ☕ Backend
+### ☕ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-`Spring Boot` • `Spring Security` • `REST APIs` • `Maven`
+**Technologies:** `Spring Boot` • `Spring Security` • `REST APIs` • `Maven`
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </p>
 
-### 🔧 Tools
+### 🔧 Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
@@ -78,45 +78,53 @@ Currently, I'm focused on **Java, Spring Boot, Full-Stack Development, Data Stru
 
 **Smart Career Intelligence Platform**
 
-CareerLens AI is a career-focused platform designed to help students and job seekers analyze resumes, understand job requirements, prepare for interviews, and identify skill gaps.
+CareerLens AI is a full-stack career intelligence platform designed to help students and job seekers understand their career readiness through **resume analysis, job description analysis, skill-gap identification, interview preparation, and personalized career insights**.
 
-### ✨ Features
+### ✨ Key Features
 
-* 📄 Resume Analysis
-* 💼 Job Description Analysis
-* 🧠 AI-Powered Career Insights
-* 🎯 Skill Gap Identification
-* 🎤 Interview Question Generation
-* 📈 Career Improvement Suggestions
-* 🔐 User Authentication
-* 👤 User Profile & Dashboard
+- 📄 Resume Analysis
+- 💼 Job Description Analysis
+- 🧠 AI-Powered Career Insights
+- 🎯 Skill Gap Identification
+- 🎤 Interview Question Generation
+- 📈 Career Improvement Suggestions
+- 🔐 Secure User Authentication
+- 👤 User Profile & Dashboard
+- 🔗 RESTful Backend Architecture
 
-### 🧰 Tech Stack
+### 🧰 Technology Stack
 
 `React` `Vite` `Java` `Spring Boot` `Spring Security` `REST API` `MySQL` `PostgreSQL`
 
----
-
-## ☕ Java Projects
-
-A collection of Java applications built while developing strong **Core Java, OOP, and problem-solving skills**.
-
-* 📚 Library Management System
-* 🚲 Bike Rental Billing System
-* 🏥 Hospital Appointment Scheduler
-* ⚡ Electricity Bill Calculator
-* 🎓 College Student Utility System
-* 💼 Skill2Hire
-* ⛽ Bike Fuel Cost Calculator
-* 👨‍🎓 Student Age Validator
-* 📊 Student Marks Analyzer
-* 🏋️ Gym Membership System
-
-**Focus:** `Core Java` • `OOP` • `Arrays` • `2D Arrays` • `Exception Handling` • `Problem Solving`
+🔗 **Repository:**  
+https://github.com/koushik8369-ux/careerlens-ai
 
 ---
 
-## 📊 GitHub Statistics
+## ☕ Java Development
+
+I'm actively building Java applications to strengthen my **Core Java, OOP, problem-solving, and backend development skills**.
+
+### 📚 Projects
+
+- 📚 **Library Management System**
+- 🚲 **Bike Rental Billing System**
+- 🏥 **Hospital Appointment Scheduler**
+- ⚡ **Electricity Bill Calculator**
+- 🎓 **College Student Utility System**
+- 💼 **Skill2Hire**
+- ⛽ **Bike Fuel Cost Calculator**
+- 👨‍🎓 **Student Age Validator**
+- 📊 **Student Marks Analyzer**
+- 🏋️ **Gym Membership System**
+
+### 🎯 Core Concepts
+
+`Java` • `OOP` • `Arrays` • `2D Arrays` • `Exception Handling` • `Collections` • `Problem Solving`
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -132,9 +140,21 @@ A collection of Java applications built while developing strong **Core Java, OOP
 
 <div align="center">
 
-`Java` • `Spring Boot` • `DSA` • `React` • `REST APIs` • `Database Design` • `AI/ML`
+### ☕ Java → 🌱 Spring Boot → 🌐 Full Stack → 🤖 AI/ML
+
+<br>
+
+`Java` • `Spring Boot` • `Spring Security` • `DSA` • `React` • `REST APIs` • `Database Design` • `AI/ML`
 
 </div>
+
+---
+
+## 🎯 Career Goal
+
+> **Become a Software Engineer capable of building impactful products and intelligent systems.**
+
+I'm continuously working on projects, strengthening my fundamentals, and learning technologies that help me become a better engineer.
 
 ---
 
@@ -152,7 +172,7 @@ A collection of Java applications built while developing strong **Core Java, OOP
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%A7%A0" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%A7%A0;Keep+Engineering+%F0%9F%92%BB" alt="Footer Animation"/>
 
 <br>
 
