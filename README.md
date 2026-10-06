@@ -60,7 +60,7 @@ I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered a
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,typescript" />
 </p>
 
 ### ⚙️ Backend Development
@@ -77,9 +77,13 @@ I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered a
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 </p>
 
-`MySQL` • `PostgreSQL` • `Firebase` • `Firestore`
+`MySQL` • `PostgreSQL` • `Supabase` • `Firebase` • `Firestore`
 
-### 🔧 Tools & Technologies
+### 🤖 AI & Development
+
+`Google Gemini API` • `AI-Powered Applications` • `Prompt Engineering`
+
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
@@ -143,6 +147,49 @@ https://careerlens-ai-assistant.ai.studio/
 
 ---
 
+## 🥉 💻 CodeMentor AI
+
+**AI-Powered Coding Interview & Career Preparation Platform**
+
+CodeMentor AI is a full-stack platform designed to help software engineering candidates prepare for technical interviews through **coding challenges, mock interviews, algorithmic problem solving, and AI-generated interview questions**.
+
+The platform combines a React frontend with a Java Spring Boot backend and Google Gemini AI integration.
+
+### ✨ Key Features
+
+- 💻 Curated Coding Interview Problems
+- 🧠 AI-Generated Interview Questions
+- 🎤 Mock Interview Sessions
+- 📊 Algorithm & Complexity Analysis
+- 🧪 Coding Problem Test Cases
+- 🔗 REST API Architecture
+- 🗄️ PostgreSQL Database Integration
+- 🤖 Google Gemini AI Integration
+- 🔒 Server-Side Validation
+- 🛡️ Secure Server-Side AI & Database Configuration
+
+### 🏗️ Architecture
+
+```text
+React + Vite + TypeScript
+          ↓
+Spring Boot REST API
+          ↓
+PostgreSQL / Supabase
+          ↓
+Google Gemini API
+```
+
+### 🧰 Technology Stack
+
+`Java 21` `Spring Boot 3.3.4` `React 19` `Vite` `TypeScript` `Tailwind CSS` `PostgreSQL` `Supabase` `Google Gemini API` `Maven`
+
+### 🔗 Repository
+
+https://github.com/koushik8369-ux/CodeMentorAI
+
+---
+
 # ☕ Java Development
 
 I'm actively building Java applications to strengthen my **Core Java, OOP, problem-solving, and backend development skills**.
@@ -194,7 +241,7 @@ I'm actively building Java applications to strengthen my **Core Java, OOP, probl
 
 <br><br>
 
-`Java` • `Spring Boot` • `Spring Security` • `DSA` • `React` • `REST APIs` • `Database Design` • `AI/ML`
+`Java` • `Spring Boot` • `Spring Security` • `DSA` • `React` • `REST APIs` • `Database Design` • `TypeScript` • `AI/ML`
 
 </div>
 
@@ -240,10 +287,10 @@ Database & Backend Development
 |------|-------|
 | ☕ Java | Core Java, OOP & Problem Solving |
 | 🌱 Backend | Spring Boot, Spring Security & REST APIs |
-| 🌐 Frontend | React, JavaScript & Vite |
-| 🗄️ Database | MySQL & PostgreSQL |
+| 🌐 Frontend | React, JavaScript, TypeScript & Vite |
+| 🗄️ Database | MySQL, PostgreSQL & Supabase |
 | 🧠 DSA | Problem Solving & Algorithms |
-| 🤖 AI | AI-Powered Software Applications |
+| 🤖 AI | Gemini & AI-Powered Applications |
 | 🚀 Projects | Real-World Full-Stack Applications |
 
 </div>
