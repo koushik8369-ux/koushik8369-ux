@@ -32,20 +32,20 @@
 
 I'm **Koushik Gowda KS**, a Computer Science Engineering student focused on becoming a **Software Engineer** by building practical applications and strengthening my software development fundamentals.
 
-My primary focus is **Java Full-Stack Development**, with hands-on experience working with **Java, Spring Boot, React, REST APIs, databases, and modern development tools**.
+My primary focus is **Java Full-Stack Development**, with hands-on experience building applications using **Java, Spring Boot, React, REST APIs, databases, and modern development tools**.
 
 I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered applications** to build smarter software solutions.
 
 - ☕ Strengthening **Java & Object-Oriented Programming**
 - 🌱 Building backend applications with **Spring Boot**
 - 🌐 Developing full-stack applications with **React & Vite**
-- 🔐 Learning **Spring Security & authentication**
+- 🔐 Learning **Spring Security & Authentication**
 - 🔗 Building and consuming **REST APIs**
 - 🗄️ Working with **MySQL & PostgreSQL**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🚀 Building real-world software projects
-- 📚 Continuously improving my software engineering skills
+- 🚀 Building and improving real-world software projects
+- 📚 Continuously developing my software engineering skills
 
 ---
 
@@ -81,7 +81,7 @@ I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered a
 
 ### 🤖 AI & Development
 
-`Google Gemini API` • `AI-Powered Applications` • `Prompt Engineering`
+`Google Gemini` • `AI-Powered Applications` • `Conversational AI` • `Prompt Engineering`
 
 ### 🔧 Tools
 
@@ -93,11 +93,17 @@ I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered a
 
 # 🚀 Featured Projects
 
-## 🥇 🤖 JOBFIT AI
+> 🚧 **Selected projects I'm actively building, testing, and improving.**
+
+---
+
+## 🤖 JOBFIT AI
 
 **AI-Powered Job Fit & Career Analysis Platform**
 
-JOBFIT AI is an AI-powered career platform designed to help students and job seekers understand how well their **resume matches a target job**, identify skill gaps, analyze job requirements, and receive actionable recommendations for improving career readiness.
+🚀 **Status: Active Development**
+
+JOBFIT AI is an AI-powered career platform focused on helping students and job seekers understand how well their **resume matches a target job**, identify skill gaps, analyze job requirements, and receive actionable recommendations for improving career readiness.
 
 ### ✨ Key Features
 
@@ -108,9 +114,9 @@ JOBFIT AI is an AI-powered career platform designed to help students and job see
 - 🔍 Skill Gap Identification
 - 📊 Resume-to-Job Matching
 - 🎤 Interview Preparation
-- 📈 Personalized Improvement Suggestions
+- 📈 Career Improvement Suggestions
 - 🔐 User Authentication
-- 👤 User Profile & Dashboard
+- 👤 User Dashboard
 
 ### 🧰 Technology Stack
 
@@ -122,20 +128,26 @@ https://github.com/koushik8369-ux/jobfit-ai
 
 ---
 
-## 🥈 🤖 CareerLens AI Assistant
+## 🤖 CareerLens AI Assistant
 
 **AI-Powered Career Assistant & Chatbot**
 
-CareerLens AI Assistant is an AI-powered conversational application designed to provide users with an interactive assistant for career-related questions, guidance, and exploration.
+🚀 **Status: Building**
+
+CareerLens AI Assistant is an AI-powered conversational application focused on providing users with an interactive assistant for **career-related questions, guidance, and exploration**.
 
 ### ✨ Key Features
 
 - 💬 AI-Powered Conversational Assistant
-- 🧠 Intelligent Career Guidance
+- 🧠 Career Guidance
 - 🎯 Career-Focused Assistance
 - ⚡ Interactive Chat Experience
-- 🌐 Web-Based AI Application
-- 🤖 AI-Assisted User Interaction
+- 🤖 AI-Assisted Responses
+- 🌐 Web-Based Application
+
+### 🧰 Focus Areas
+
+`AI` `Conversational AI` `Chatbot` `Career Guidance` `Web Development`
 
 ### 🔗 Links
 
@@ -147,42 +159,28 @@ https://careerlens-ai-assistant.ai.studio/
 
 ---
 
-## 🥉 💻 CodeMentor AI
+## 💻 CodeMentor AI
 
 **AI-Powered Coding Interview & Career Preparation Platform**
 
-CodeMentor AI is a full-stack platform designed to help software engineering candidates prepare for technical interviews through **coding challenges, mock interviews, algorithmic problem solving, and AI-generated interview questions**.
+🔧 **Status: In Progress**
 
-The platform combines a React frontend with a Java Spring Boot backend and Google Gemini AI integration.
+CodeMentor AI is a full-stack platform focused on helping software engineering candidates prepare for technical interviews through **coding challenges, mock interviews, algorithmic problem solving, and AI-powered interview assistance**.
 
 ### ✨ Key Features
 
-- 💻 Curated Coding Interview Problems
+- 💻 Coding Interview Problems
 - 🧠 AI-Generated Interview Questions
-- 🎤 Mock Interview Sessions
+- 🎤 Mock Interview Preparation
 - 📊 Algorithm & Complexity Analysis
-- 🧪 Coding Problem Test Cases
+- 🧪 Coding Problem Practice
+- 🤖 AI-Powered Assistance
 - 🔗 REST API Architecture
-- 🗄️ PostgreSQL Database Integration
-- 🤖 Google Gemini AI Integration
-- 🔒 Server-Side Validation
-- 🛡️ Secure Server-Side AI & Database Configuration
-
-### 🏗️ Architecture
-
-```text
-React + Vite + TypeScript
-          ↓
-Spring Boot REST API
-          ↓
-PostgreSQL / Supabase
-          ↓
-Google Gemini API
-```
+- 🗄️ PostgreSQL Database
 
 ### 🧰 Technology Stack
 
-`Java 21` `Spring Boot 3.3.4` `React 19` `Vite` `TypeScript` `Tailwind CSS` `PostgreSQL` `Supabase` `Google Gemini API` `Maven`
+`Java 21` `Spring Boot` `React` `Vite` `TypeScript` `PostgreSQL` `Supabase` `Google Gemini` `Maven`
 
 ### 🔗 Repository
 
