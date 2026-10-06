@@ -30,26 +30,26 @@
 
 ## 👨‍💻 About Me
 
-I'm **Koushik Gowda KS**, a Computer Science Engineering student focused on becoming a **Software Engineer** by building practical applications and strengthening my foundations in software development.
+I'm **Koushik Gowda KS**, a Computer Science Engineering student focused on becoming a **Software Engineer** by building practical applications and strengthening my software development fundamentals.
 
-My primary focus is **Java Full-Stack Development**, with hands-on experience building applications using **Java, Spring Boot, React, REST APIs, and relational databases**.
+My primary focus is **Java Full-Stack Development**, with hands-on experience working with **Java, Spring Boot, React, REST APIs, databases, and modern development tools**.
 
-I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered software applications**.
+I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered applications** to build smarter software solutions.
 
-- ☕ Developing strong **Java & Object-Oriented Programming** skills
+- ☕ Strengthening **Java & Object-Oriented Programming**
 - 🌱 Building backend applications with **Spring Boot**
 - 🌐 Developing full-stack applications with **React & Vite**
 - 🔐 Learning **Spring Security & authentication**
-- 🔗 Designing and consuming **REST APIs**
+- 🔗 Building and consuming **REST APIs**
 - 🗄️ Working with **MySQL & PostgreSQL**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🤖 Exploring **AI/ML and intelligent applications**
-- 🚀 Building real-world projects for practical experience
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🚀 Building real-world software projects
 - 📚 Continuously improving my software engineering skills
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -57,13 +57,13 @@ I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered s
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
@@ -89,31 +89,32 @@ I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered s
 
 # 🚀 Featured Project
 
-## 🤖 CareerLens AI
+## 🤖 JOBFIT AI
 
-**Smart Career Intelligence Platform**
+**AI-Powered Job Fit & Career Analysis Platform**
 
-CareerLens AI is a full-stack career platform designed to help students and job seekers understand their career readiness through **resume analysis, job intelligence, skill-gap identification, interview preparation, and personalized career insights**.
+JOBFIT AI is an AI-powered career platform designed to help students and job seekers understand how well their **resume matches a target job**, identify skill gaps, analyze job requirements, and receive actionable recommendations for improving their career readiness.
 
-### ✨ Highlights
+### ✨ Key Features
 
 - 📄 Resume Analysis
 - 💼 Job Description Analysis
-- 🧠 AI-Powered Career Intelligence
-- 🎯 Skill Gap Identification
+- 🎯 Job-Fit Analysis
+- 🧠 AI-Powered Career Insights
+- 🔍 Skill Gap Identification
+- 📊 Resume-to-Job Matching
 - 🎤 Interview Preparation
-- 📈 Career Improvement Suggestions
-- 🔐 User Registration & Authentication
+- 📈 Personalized Improvement Suggestions
+- 🔐 User Authentication
 - 👤 User Profile & Dashboard
-- 🔗 RESTful Backend Architecture
-- 🗄️ Database Integration
 
-### 🧰 Built With
+### 🧰 Technology Stack
 
-`Java` `Spring Boot` `Spring Security` `React` `Vite` `REST API` `MySQL`
+`Java` `Spring Boot` `Spring Security` `React` `Vite` `REST APIs` `MySQL`
 
-🔗 **Repository:**  
-https://github.com/koushik8369-ux/careerlens-ai
+### 🔗 Repository
+
+https://github.com/koushik8369-ux/jobfit-ai
 
 ---
 
@@ -178,29 +179,49 @@ I'm actively building Java applications to strengthen my **Core Java, OOP, probl
 
 > **Become a Software Engineer capable of building impactful products and intelligent systems.**
 
-I'm working toward this goal by combining **strong programming fundamentals, full-stack development, backend engineering, problem solving, and AI-powered applications**.
+I'm working toward this goal by combining:
+
+**Strong Programming Fundamentals + Backend Engineering + Full-Stack Development + Problem Solving + AI**
 
 ---
 
 # 📈 My Development Journey
 
 ```text
-Core Programming
-       ↓
-Java & OOP
-       ↓
+Programming Fundamentals
+          ↓
+      Java & OOP
+          ↓
 Data Structures & Algorithms
-       ↓
-Spring Boot & REST APIs
-       ↓
+          ↓
+ Spring Boot & REST APIs
+          ↓
 Database & Backend Development
-       ↓
-React & Full-Stack Development
-       ↓
-AI-Powered Applications
-       ↓
-Software Engineer 🚀
+          ↓
+ React & Full-Stack Development
+          ↓
+   AI-Powered Applications
+          ↓
+    Software Engineer 🚀
 ```
+
+---
+
+# 🔥 What I'm Building
+
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| ☕ Java | Core Java, OOP & Problem Solving |
+| 🌱 Backend | Spring Boot, Spring Security & REST APIs |
+| 🌐 Frontend | React, JavaScript & Vite |
+| 🗄️ Database | MySQL & PostgreSQL |
+| 🧠 DSA | Problem Solving & Algorithms |
+| 🤖 AI | AI-powered Software Applications |
+| 🚀 Projects | Real-world Full-Stack Applications |
+
+</div>
 
 ---
 
