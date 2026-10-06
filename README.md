@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Koushik+Gowda+KS+%F0%9F%91%8B;Java+Full-Stack+Developer;Software+Engineer+in+Progress;Building+Real-World+Software;AI%2FML+Enthusiast" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Koushik+Gowda+KS+%F0%9F%91%8B;Java+Full-Stack+Developer;Software+Engineer+in+Progress;Building+Real-World+Applications;AI%2FML+Enthusiast" alt="Typing Animation"/>
 
 <br>
 
@@ -8,11 +8,21 @@
 
 <br><br>
 
-### Computer Science Engineering Student
+### 🎓 Computer Science Engineering Student
 
 **Java Full-Stack Developer • Software Engineer • AI/ML Enthusiast**
 
-🎓 **SJCIT, Chikkaballapur | 3rd Year CSE**
+**SJCIT, Chikkaballapur • 3rd Year CSE**
+
+<br>
+
+<a href="https://github.com/koushik8369-ux">
+<img src="https://img.shields.io/badge/GitHub-koushik8369--ux-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://candid-mooncake-ce0589.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
 </div>
 
@@ -20,19 +30,22 @@
 
 ## 👨‍💻 About Me
 
-I'm **Koushik Gowda KS**, a Computer Science Engineering student focused on building practical software and developing strong foundations in software engineering.
+I'm **Koushik Gowda KS**, a Computer Science Engineering student focused on becoming a **Software Engineer** by building practical applications and strengthening my foundations in software development.
 
-My primary focus is **Java Full-Stack Development**, while continuously exploring **AI/ML, Data Structures & Algorithms, and modern web technologies**.
+My primary focus is **Java Full-Stack Development**, with hands-on experience building applications using **Java, Spring Boot, React, REST APIs, and relational databases**.
 
-- ☕ Building strong foundations in **Java & Object-Oriented Programming**
-- 🚀 Developing backend applications with **Spring Boot**
-- 🌐 Creating modern web applications with **React & Vite**
-- 🔐 Working with **Spring Security, Authentication & REST APIs**
-- 🗄️ Exploring **MySQL & PostgreSQL**
+I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered software applications**.
+
+- ☕ Developing strong **Java & Object-Oriented Programming** skills
+- 🌱 Building backend applications with **Spring Boot**
+- 🌐 Developing full-stack applications with **React & Vite**
+- 🔐 Learning **Spring Security & authentication**
+- 🔗 Designing and consuming **REST APIs**
+- 🗄️ Working with **MySQL & PostgreSQL**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🛠️ Building projects that solve practical problems
-- 📚 Continuously improving software engineering skills
+- 🤖 Exploring **AI/ML and intelligent applications**
+- 🚀 Building real-world projects for practical experience
+- 📚 Continuously improving my software engineering skills
 
 ---
 
@@ -44,27 +57,29 @@ My primary focus is **Java Full-Stack Development**, while continuously explorin
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-### ☕ Backend Development
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-**Technologies:** `Spring Boot` • `Spring Security` • `REST APIs` • `Maven`
+`Spring Boot` • `Spring Security` • `REST APIs` • `Maven`
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 </p>
 
-### 🔧 Development Tools
+`MySQL` • `PostgreSQL` • `Firebase` • `Firestore`
+
+### 🔧 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
@@ -72,59 +87,60 @@ My primary focus is **Java Full-Stack Development**, while continuously explorin
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🤖 CareerLens AI
+## 🤖 CareerLens AI
 
 **Smart Career Intelligence Platform**
 
-CareerLens AI is a full-stack career intelligence platform designed to help students and job seekers understand their career readiness through **resume analysis, job description analysis, skill-gap identification, interview preparation, and personalized career insights**.
+CareerLens AI is a full-stack career platform designed to help students and job seekers understand their career readiness through **resume analysis, job intelligence, skill-gap identification, interview preparation, and personalized career insights**.
 
-### ✨ Key Features
+### ✨ Highlights
 
 - 📄 Resume Analysis
 - 💼 Job Description Analysis
-- 🧠 AI-Powered Career Insights
+- 🧠 AI-Powered Career Intelligence
 - 🎯 Skill Gap Identification
-- 🎤 Interview Question Generation
+- 🎤 Interview Preparation
 - 📈 Career Improvement Suggestions
-- 🔐 Secure User Authentication
+- 🔐 User Registration & Authentication
 - 👤 User Profile & Dashboard
 - 🔗 RESTful Backend Architecture
+- 🗄️ Database Integration
 
-### 🧰 Technology Stack
+### 🧰 Built With
 
-`React` `Vite` `Java` `Spring Boot` `Spring Security` `REST API` `MySQL` `PostgreSQL`
+`Java` `Spring Boot` `Spring Security` `React` `Vite` `REST API` `MySQL`
 
 🔗 **Repository:**  
 https://github.com/koushik8369-ux/careerlens-ai
 
 ---
 
-## ☕ Java Development
+# ☕ Java Development
 
 I'm actively building Java applications to strengthen my **Core Java, OOP, problem-solving, and backend development skills**.
 
-### 📚 Projects
+### 📚 Java Projects
 
-- 📚 **Library Management System**
-- 🚲 **Bike Rental Billing System**
-- 🏥 **Hospital Appointment Scheduler**
-- ⚡ **Electricity Bill Calculator**
-- 🎓 **College Student Utility System**
-- 💼 **Skill2Hire**
-- ⛽ **Bike Fuel Cost Calculator**
-- 👨‍🎓 **Student Age Validator**
-- 📊 **Student Marks Analyzer**
-- 🏋️ **Gym Membership System**
+- 📚 Library Management System
+- 🚲 Bike Rental Billing System
+- 🏥 Hospital Appointment Scheduler
+- ⚡ Electricity Bill Calculator
+- 🎓 College Student Utility System
+- 💼 Skill2Hire
+- ⛽ Bike Fuel Cost Calculator
+- 👨‍🎓 Student Age Validator
+- 📊 Student Marks Analyzer
+- 🏋️ Gym Membership System
 
-### 🎯 Core Concepts
+### 🎯 Concepts I'm Practicing
 
-`Java` • `OOP` • `Arrays` • `2D Arrays` • `Exception Handling` • `Collections` • `Problem Solving`
+`Java` • `OOP` • `Arrays` • `2D Arrays` • `Strings` • `Exception Handling` • `Collections` • `Problem Solving` • `DSA`
 
 ---
 
-## 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -134,15 +150,23 @@ I'm actively building Java applications to strengthen my **Core Java, OOP, probl
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik8369-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 <div align="center">
 
 ### ☕ Java → 🌱 Spring Boot → 🌐 Full Stack → 🤖 AI/ML
 
-<br>
+<br><br>
 
 `Java` • `Spring Boot` • `Spring Security` • `DSA` • `React` • `REST APIs` • `Database Design` • `AI/ML`
 
@@ -150,15 +174,37 @@ I'm actively building Java applications to strengthen my **Core Java, OOP, probl
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
 > **Become a Software Engineer capable of building impactful products and intelligent systems.**
 
-I'm continuously working on projects, strengthening my fundamentals, and learning technologies that help me become a better engineer.
+I'm working toward this goal by combining **strong programming fundamentals, full-stack development, backend engineering, problem solving, and AI-powered applications**.
 
 ---
 
-## 🌐 Connect With Me
+# 📈 My Development Journey
+
+```text
+Core Programming
+       ↓
+Java & OOP
+       ↓
+Data Structures & Algorithms
+       ↓
+Spring Boot & REST APIs
+       ↓
+Database & Backend Development
+       ↓
+React & Full-Stack Development
+       ↓
+AI-Powered Applications
+       ↓
+Software Engineer 🚀
+```
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -172,9 +218,9 @@ I'm continuously working on projects, strengthening my fundamentals, and learnin
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%A7%A0;Keep+Engineering+%F0%9F%92%BB" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%A7%A0;Keep+Engineering+%F0%9F%92%BB" alt="Footer Animation"/>
 
-<br>
+<br><br>
 
 ### 🚀 Building Today. Engineering Tomorrow.
 
