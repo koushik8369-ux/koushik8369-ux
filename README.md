@@ -87,13 +87,13 @@ I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered a
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-## 🤖 JOBFIT AI
+## 🥇 🤖 JOBFIT AI
 
 **AI-Powered Job Fit & Career Analysis Platform**
 
-JOBFIT AI is an AI-powered career platform designed to help students and job seekers understand how well their **resume matches a target job**, identify skill gaps, analyze job requirements, and receive actionable recommendations for improving their career readiness.
+JOBFIT AI is an AI-powered career platform designed to help students and job seekers understand how well their **resume matches a target job**, identify skill gaps, analyze job requirements, and receive actionable recommendations for improving career readiness.
 
 ### ✨ Key Features
 
@@ -115,6 +115,31 @@ JOBFIT AI is an AI-powered career platform designed to help students and job see
 ### 🔗 Repository
 
 https://github.com/koushik8369-ux/jobfit-ai
+
+---
+
+## 🥈 🤖 CareerLens AI Assistant
+
+**AI-Powered Career Assistant & Chatbot**
+
+CareerLens AI Assistant is an AI-powered conversational application designed to provide users with an interactive assistant for career-related questions, guidance, and exploration.
+
+### ✨ Key Features
+
+- 💬 AI-Powered Conversational Assistant
+- 🧠 Intelligent Career Guidance
+- 🎯 Career-Focused Assistance
+- ⚡ Interactive Chat Experience
+- 🌐 Web-Based AI Application
+- 🤖 AI-Assisted User Interaction
+
+### 🔗 Links
+
+**GitHub Repository:**  
+https://github.com/koushik8369-ux/careerlens-chatbot
+
+**Live Application:**  
+https://careerlens-ai-assistant.ai.studio/
 
 ---
 
@@ -218,8 +243,8 @@ Database & Backend Development
 | 🌐 Frontend | React, JavaScript & Vite |
 | 🗄️ Database | MySQL & PostgreSQL |
 | 🧠 DSA | Problem Solving & Algorithms |
-| 🤖 AI | AI-powered Software Applications |
-| 🚀 Projects | Real-world Full-Stack Applications |
+| 🤖 AI | AI-Powered Software Applications |
+| 🚀 Projects | Real-World Full-Stack Applications |
 
 </div>
 
