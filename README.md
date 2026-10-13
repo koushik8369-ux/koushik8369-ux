@@ -24,176 +24,141 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/koushik-gowda-ks-552bb23ab">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Koushik Gowda KS**, a Computer Science Engineering student focused on becoming a **Software Engineer** by building practical applications and strengthening my software development fundamentals.
+I'm **Koushik Gowda KS**, a Computer Science Engineering student working toward becoming a Software Engineer by building practical applications and strengthening my software development fundamentals.
 
-My primary focus is **Java Full-Stack Development**, with hands-on experience building applications using **Java, Spring Boot, React, REST APIs, databases, and modern development tools**.
+My primary focus is **Java Full-Stack Development**, while exploring AI-powered applications and modern web technologies.
 
-I'm also exploring **Artificial Intelligence, Machine Learning, and AI-powered applications** to build smarter software solutions.
-
-- ☕ Strengthening **Java & Object-Oriented Programming**
-- 🌱 Building backend applications with **Spring Boot**
-- 🌐 Developing full-stack applications with **React & Vite**
-- 🔐 Learning **Spring Security & Authentication**
-- 🔗 Building and consuming **REST APIs**
-- 🗄️ Working with **MySQL & PostgreSQL**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🚀 Building and improving real-world software projects
-- 📚 Continuously developing my software engineering skills
+- ☕ Strengthening Java and Object-Oriented Programming
+- 🌱 Building backend applications with Spring Boot
+- 🌐 Developing web interfaces with React and Vite
+- 🔗 Learning to design and consume REST APIs
+- 🔐 Exploring Spring Security and authentication
+- 🗄️ Practicing database design with SQL databases
+- 🧠 Improving Data Structures & Algorithms and problem-solving skills
+- 🤖 Exploring AI integrations and intelligent applications
+- 🚀 Building, testing, and improving real-world projects
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" alt="Java, Python, C and C++"/>
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,typescript" alt="HTML, CSS, JavaScript, React, Vite, Tailwind CSS and TypeScript"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring"/>
 </p>
 
 `Spring Boot` • `Spring Security` • `REST APIs` • `Maven`
 
-### 🗄️ Databases
+### 🗄️ Databases & Cloud Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" alt="MySQL, PostgreSQL, Firebase and Supabase"/>
 </p>
 
-`MySQL` • `PostgreSQL` • `Supabase` • `Firebase` • `Firestore`
-
-### 🤖 AI & Development
-
-`Google Gemini` • `AI-Powered Applications` • `Conversational AI` • `Prompt Engineering`
-
-### 🔧 Tools
+### 🔧 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" alt="Git, GitHub, VS Code, Linux and Figma"/>
 </p>
+
+### 🤖 AI Technologies
+
+`Google Gemini API` • `AI-powered applications` • `Conversational AI`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-> 🚧 **Selected projects I'm actively building, testing, and improving.**
+> 🚧 These projects are actively being built, tested, and improved. Features and implementation may evolve during development.
 
----
-
-## 🤖 JOBFIT AI
+### 🤖 JOBFIT AI
 
 **AI-Powered Job Fit & Career Analysis Platform**
 
-🚀 **Status: Active Development**
+JOBFIT AI is a career-focused platform being developed to help students and job seekers compare a resume with a target job description, understand relevant skills, identify potential gaps, and explore ways to improve job readiness.
 
-JOBFIT AI is an AI-powered career platform focused on helping students and job seekers understand how well their **resume matches a target job**, identify skill gaps, analyze job requirements, and receive actionable recommendations for improving career readiness.
+**Planned and developing capabilities**
+- 📄 Resume analysis
+- 💼 Job description analysis
+- 🎯 Resume-to-job fit assessment
+- 🔍 Skill-gap identification
+- 📈 Career improvement recommendations
+- 🎤 Interview preparation support
+- 🔐 User authentication and dashboard
 
-### ✨ Key Features
+**Technology direction:** `React` • `TypeScript` • `Vite` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `AI/LLM integration`
 
-- 📄 Resume Analysis
-- 💼 Job Description Analysis
-- 🎯 Job-Fit Analysis
-- 🧠 AI-Powered Career Insights
-- 🔍 Skill Gap Identification
-- 📊 Resume-to-Job Matching
-- 🎤 Interview Preparation
-- 📈 Career Improvement Suggestions
-- 🔐 User Authentication
-- 👤 User Dashboard
-
-### 🧰 Technology Stack
-
-`Java` `Spring Boot` `Spring Security` `React` `Vite` `REST APIs` `MySQL`
-
-### 🔗 Repository
-
-https://github.com/koushik8369-ux/jobfit-ai
+🔗 **Repository:** [koushik8369-ux/jobfit-ai](https://github.com/koushik8369-ux/jobfit-ai)
 
 ---
 
-## 🤖 CareerLens AI Assistant
+### 💬 CareerLens AI Assistant
 
 **AI-Powered Career Assistant & Chatbot**
 
-🚀 **Status: Building**
+CareerLens AI Assistant is a web-based conversational assistant project focused on career-related questions and interactive AI-supported guidance.
 
-CareerLens AI Assistant is an AI-powered conversational application focused on providing users with an interactive assistant for **career-related questions, guidance, and exploration**.
+**Project focus**
+- 💬 Interactive chat experience
+- 🧠 AI-assisted responses
+- 🎯 Career-focused assistance
+- 🌐 Web-based user interface
+- 🔧 Ongoing feature development and refinement
 
-### ✨ Key Features
+🔗 **GitHub Repository:** [careerlens-chatbot](https://github.com/koushik8369-ux/careerlens-chatbot)
 
-- 💬 AI-Powered Conversational Assistant
-- 🧠 Career Guidance
-- 🎯 Career-Focused Assistance
-- ⚡ Interactive Chat Experience
-- 🤖 AI-Assisted Responses
-- 🌐 Web-Based Application
-
-### 🧰 Focus Areas
-
-`AI` `Conversational AI` `Chatbot` `Career Guidance` `Web Development`
-
-### 🔗 Links
-
-**GitHub Repository:**  
-https://github.com/koushik8369-ux/careerlens-chatbot
-
-**Live Application:**  
-https://careerlens-ai-assistant.ai.studio/
+🌐 **Live Application:** [CareerLens AI Assistant](https://careerlens-ai-assistant.ai.studio/)
 
 ---
 
-## 💻 CodeMentor AI
+### 💻 CodeMentor AI
 
-**AI-Powered Coding Interview & Career Preparation Platform**
+**AI-Assisted Coding Interview & Preparation Platform**
 
-🔧 **Status: In Progress**
+CodeMentor AI is a project in development intended to support technical interview preparation through coding practice and AI-assisted learning.
 
-CodeMentor AI is a full-stack platform focused on helping software engineering candidates prepare for technical interviews through **coding challenges, mock interviews, algorithmic problem solving, and AI-powered interview assistance**.
+**Project focus**
+- 💻 Coding interview practice
+- 🧠 AI-assisted interview preparation
+- 🎤 Mock interview concepts
+- 🔗 Full-stack application architecture
+- 🗄️ Database-backed functionality
+- 🔧 Ongoing integration and refinement
 
-### ✨ Key Features
+**Technology direction:** `Java 21` • `Spring Boot` • `React` • `Vite` • `TypeScript` • `PostgreSQL` • `Supabase` • `Google Gemini` • `Maven`
 
-- 💻 Coding Interview Problems
-- 🧠 AI-Generated Interview Questions
-- 🎤 Mock Interview Preparation
-- 📊 Algorithm & Complexity Analysis
-- 🧪 Coding Problem Practice
-- 🤖 AI-Powered Assistance
-- 🔗 REST API Architecture
-- 🗄️ PostgreSQL Database
-
-### 🧰 Technology Stack
-
-`Java 21` `Spring Boot` `React` `Vite` `TypeScript` `PostgreSQL` `Supabase` `Google Gemini` `Maven`
-
-### 🔗 Repository
-
-https://github.com/koushik8369-ux/CodeMentorAI
+🔗 **Repository:** [koushik8369-ux/CodeMentorAI](https://github.com/koushik8369-ux/CodeMentorAI)
 
 ---
 
-# ☕ Java Development
+## ☕ Java Practice Projects
 
-I'm actively building Java applications to strengthen my **Core Java, OOP, problem-solving, and backend development skills**.
+I also build smaller Java applications to practice Core Java, object-oriented programming, validation, and problem solving.
 
-### 📚 Java Projects
-
+- 📦 Smart Inventory Management System
 - 📚 Library Management System
 - 🚲 Bike Rental Billing System
 - 🏥 Hospital Appointment Scheduler
@@ -205,106 +170,62 @@ I'm actively building Java applications to strengthen my **Core Java, OOP, probl
 - 📊 Student Marks Analyzer
 - 🏋️ Gym Membership System
 
-### 🎯 Concepts I'm Practicing
-
-`Java` • `OOP` • `Arrays` • `2D Arrays` • `Strings` • `Exception Handling` • `Collections` • `Problem Solving` • `DSA`
+**Concepts practiced:** `Core Java` • `OOP` • `Arrays` • `2D Arrays` • `Strings` • `Exception Handling` • `Collections` • `Problem Solving` • `DSA`
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=koushik8369-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=koushik8369-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik8369-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik8369-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-### ☕ Java → 🌱 Spring Boot → 🌐 Full Stack → 🤖 AI/ML
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik8369-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <br><br>
 
-`Java` • `Spring Boot` • `Spring Security` • `DSA` • `React` • `REST APIs` • `Database Design` • `TypeScript` • `AI/ML`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik8369-ux&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-# 🎯 Career Goal
-
-> **Become a Software Engineer capable of building impactful products and intelligent systems.**
-
-I'm working toward this goal by combining:
-
-**Strong Programming Fundamentals + Backend Engineering + Full-Stack Development + Problem Solving + AI**
-
----
-
-# 📈 My Development Journey
-
-```text
-Programming Fundamentals
-          ↓
-      Java & OOP
-          ↓
-Data Structures & Algorithms
-          ↓
- Spring Boot & REST APIs
-          ↓
-Database & Backend Development
-          ↓
- React & Full-Stack Development
-          ↓
-   AI-Powered Applications
-          ↓
-    Software Engineer 🚀
-```
-
----
-
-# 🔥 What I'm Building
+## 📚 Currently Learning
 
 <div align="center">
 
-| Area | Focus |
-|------|-------|
-| ☕ Java | Core Java, OOP & Problem Solving |
-| 🌱 Backend | Spring Boot, Spring Security & REST APIs |
-| 🌐 Frontend | React, JavaScript, TypeScript & Vite |
-| 🗄️ Database | MySQL, PostgreSQL & Supabase |
-| 🧠 DSA | Problem Solving & Algorithms |
-| 🤖 AI | Gemini & AI-Powered Applications |
-| 🚀 Projects | Real-World Full-Stack Applications |
+**Java → Spring Boot → Full-Stack Development → AI-Powered Applications**
+
+<br><br>
+
+`Java` • `Spring Boot` • `REST APIs` • `React` • `TypeScript` • `SQL` • `DSA` • `AI Integration`
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 Career Goal
+
+> **To become a Software Engineer who builds useful, reliable, and impactful software products.**
+
+I'm working toward this goal through consistent practice, project development, problem solving, and learning modern software engineering tools and techniques.
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/koushik8369-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/koushik-gowda-ks-552bb23ab">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://candid-mooncake-ce0589.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
