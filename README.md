@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Koushik Gowda K S</h1>
 
 <h3 align="center">Java Full-Stack Developer | Software Engineering Student | AI Enthusiast</h3>
