@@ -1,71 +1,78 @@
 
 <h1 align="center">Hi 👋, I'm Koushik Gowda K S</h1>
 
-<h3 align="center">Software Engineer | Java Full-Stack Developer</h3>
+<h3 align="center">Java Full-Stack Developer | Software Engineering Student | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full-Stack+Developer+in+Progress;Building+Real-World+Software+Projects;Learning+Spring+Boot+and+REST+APIs;Exploring+AI+and+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Real-World+Java+Applications;Learning+Spring+Boot+and+React;Exploring+AI-Powered+Applications;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=koushik8369-ux&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/koushik8369-ux">
+    <img src="https://komarev.com/ghpvc/?username=koushik8369-ux&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/koushik-gowda-ks-552bb23ab">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year Computer Science Engineering student at **S J C Institute of Technology, Chikkaballapur**.
-- ☕ Focused on **Java Full-Stack Development and Backend Engineering**.
-- 💻 Building practical applications using Java, Spring Boot, React, and REST APIs.
-- 🤖 Exploring AI-powered applications and Generative AI integration.
-- 🧠 Strengthening Data Structures and Algorithms, OOP, DBMS, and problem-solving.
-- 🚀 Interested in developing reliable, maintainable, and useful software.
-- 🎯 Goal: Become a Software Engineer and build impactful products.
+I'm a Computer Science Engineering student at **S J C Institute of Technology, Chikkaballapur**, working toward a career in software engineering.
+
+- ☕ Focused on Java and full-stack development.
+- 🌱 Learning Spring Boot, REST APIs, React, and TypeScript.
+- 💻 Developing practical Java applications and real-world systems.
+- 🤖 Exploring Generative AI and AI-assisted software development.
+- 🧠 Strengthening OOP, Data Structures and Algorithms, DBMS, and problem-solving.
+- 🚀 Currently participating in the **CodSoft Java Programming Virtual Internship**.
+- 🎯 Goal: Build reliable, useful, and maintainable software.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" alt="Programming languages" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend technologies" />
 </p>
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" alt="Backend technologies" />
 </p>
 
-- Spring Boot
-- Spring Security
-- REST API Development
-- Authentication and Authorization
-- JPA and Backend Application Design
+- Java and Object-Oriented Programming
+- Spring Boot and Spring Security
+- REST API development
+- Authentication and authorization
+- Exception handling and input validation
 
-### 🗄️ Databases
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Database technologies" />
 </p>
 
-- SQL and NoSQL
-- Supabase
-- Firebase Authentication
-- Cloud Firestore
+- SQL and relational database concepts
+- MySQL and PostgreSQL
+- MongoDB and NoSQL concepts
+- Firebase and Firestore
 
-### 🤖 AI and Development Tools
+### AI and Developer Tools
 
 - Google Gemini API
-- Generative AI and Prompt Engineering
+- Generative AI and prompt engineering
 - Git and GitHub
 - VS Code
 - Linux
@@ -74,102 +81,144 @@
 
 ---
 
-## 🏅 Certifications
-
-- 🧠 **Microsoft** — Transform Business Workflows with Generative AI (2026)
-- 🌐 **Cisco Networking Academy** — C++ Essentials 1
-- 🗄️ **Infosys Springboard** — Introduction to NoSQL Databases
-
----
-
 ## 🚀 Featured Projects
 
-### 1. JOBFIT AI — AI-Powered Job Fit and Career Analysis
+### 1. JOBFIT AI — Career and Job-Fit Analysis
 
-<code>Active Development</code>
+**Status:** Active Development
 
-A career analysis platform designed to compare candidate resumes with job descriptions and identify relevant skills and improvement opportunities.
+An AI-powered career platform being developed to help candidates compare their resumes with job descriptions.
 
-**Key Features**
 - 📄 Resume and job description analysis
-- 🎯 Job-fit and skill-matching insights
-- 🔍 Identification of matching and missing skills
-- 💡 Career improvement guidance
+- 🎯 Skill matching and job-fit insights
+- 🔍 Identification of missing skills
+- 💡 Career improvement recommendations
 - 👤 User authentication and dashboard development
 
 **Technologies:** Java, Spring Boot, Spring Security, React, Vite, REST APIs, MySQL.
 
-🔗 **Repository:** [JOBFIT AI](https://github.com/koushik8369-ux/jobfit-ai)
+🔗 [View JOBFIT AI on GitHub](https://github.com/koushik8369-ux/jobfit-ai)
 
 ---
 
-### 2. CodeMentor AI — Coding Interview Preparation
+### 2. CodeMentor AI — Coding and Interview Preparation
 
-<code>In Progress</code>
+**Status:** In Progress
 
-An AI-assisted platform focused on coding practice, interview preparation, and algorithm learning.
+An AI-assisted project focused on coding practice and interview preparation.
 
-**Key Features**
-- 💻 Coding challenges and problem-solving practice
-- 🎯 Mock interview preparation
-- 🤖 AI-assisted interview questions
-- 🧠 Algorithm and complexity analysis
+- 💻 Programming and algorithm practice
+- 🎯 Interview preparation features
+- 🤖 AI-assisted learning support
+- 🧠 Problem-solving and complexity analysis
 
-**Technologies:** Java 21, Spring Boot, React, Vite, TypeScript, PostgreSQL, Supabase, Google Gemini, Maven.
+**Technologies:** Java 21, Spring Boot, React, TypeScript, PostgreSQL, Supabase, Google Gemini, Maven.
 
-🔗 **Repository:** [CodeMentor AI](https://github.com/koushik8369-ux/CodeMentorAI)
+🔗 [View CodeMentor AI on GitHub](https://github.com/koushik8369-ux/CodeMentorAI)
 
 ---
 
 ### 3. CareerLens AI Assistant — Career Guidance Chatbot
 
-<code>Building</code>
+**Status:** Building
 
-A conversational AI application designed to help users explore career-related questions and guidance.
+A conversational AI project designed to help users explore career-related questions and guidance.
 
-**Key Features**
-- 🤖 AI-assisted conversational responses
-- 💬 Career-related question answering
-- 🌐 Interactive web-based chat experience
+- 🤖 AI-assisted conversations
+- 💬 Career-related question support
+- 🌐 Web-based chat experience
 
-🔗 **Repository:** [CareerLens AI Assistant](https://github.com/koushik8369-ux/careerlens-chatbot)
+🔗 [GitHub Repository](https://github.com/koushik8369-ux/careerlens-chatbot)
 
-🌐 **Live Application:** [Open CareerLens AI Assistant](https://careerlens-ai-assistant.ai.studio/)
+🌐 [Open Live Application](https://careerlens-ai-assistant.ai.studio/)
 
 ---
 
-## ☕ Java Development and Problem Solving
+## ☕ Java Projects
 
-I build Java applications to strengthen Core Java, object-oriented programming, validation, data handling, and problem-solving skills.
+I use practical Java projects to strengthen programming fundamentals, application design, validation, and problem-solving.
 
-| Project | Concepts Practiced |
+| Project | Repository |
 |---|---|
-| Smart Inventory Management System | Persistence, reports, validation, testing |
-| Smart Waste Management System | Java application design and task management |
-| Library Management System | OOP and record management |
-| Hospital Appointment Scheduler | Scheduling and data handling |
-| Bike Rental Billing System | Classes and billing calculations |
-| Gym Membership System | OOP and membership management |
-| Skill2Hire | Application logic |
-| Student Marks Analyzer | Arrays and result analysis |
-| Electricity Bill Calculator | Conditional logic and calculations |
-| Student Age Validator | Input validation |
-| Bike Fuel Cost Calculator | Input handling and calculations |
-| College Student Utility System | Student records and validation |
+| ATM System | [View project](https://github.com/koushik8369-ux/java-atm-system) |
+| Smart Shopping Cart | [View project](https://github.com/koushik8369-ux/smart-shopping-cart) |
+| Student Performance Analyzer | [View project](https://github.com/koushik8369-ux/student-performance-analyzer) |
+| Smart Parking System | [View project](https://github.com/koushik8369-ux/smart-parking) |
+| Smart Inventory Management System | [Browse repositories](https://github.com/koushik8369-ux?tab=repositories) |
+| Smart Waste Management System | [Browse repositories](https://github.com/koushik8369-ux?tab=repositories) |
 
-🔗 **Explore all repositories:** [GitHub Projects](https://github.com/koushik8369-ux?tab=repositories)
+### More Java Practice
+
+- 🎮 Number Guessing Game — CodSoft Task 1
+- 📊 Student Grade Calculator — CodSoft Task 2
+- 📚 Library Management System
+- 🏥 Hospital Appointment Scheduler
+- 🚲 Bike Rental Billing System
+- ⚡ Electricity Bill Calculator
+- 🏋️ Gym Membership System
+- 🎓 Student Marks Analyzer
+- ⛽ Bike Fuel Cost Calculator
+- 👨‍🎓 Student Age Validator
+
+🔗 [Explore all repositories](https://github.com/koushik8369-ux?tab=repositories)
+
+---
+
+## 💼 Internship and Learning
+
+### CodSoft — Java Programming Virtual Internship
+
+**Period:** 15 October – 15 November 2026  
+**Mode:** Virtual
+
+Currently working through Java programming tasks to apply Core Java concepts in practical applications.
+
+**Task 1 — Number Guessing Game**
+- Random number generation
+- Higher/lower hints
+- Limited attempts and multiple rounds
+- Score tracking and input validation
+
+**Task 2 — Student Grade Calculator**
+- Subject mark input
+- Total and average calculations
+- Grade calculation and result display
+
+**Next focus:** Continue developing the assigned Java tasks and improving code quality.
+
+🔗 [GitHub Profile](https://github.com/koushik8369-ux)
+
+---
+
+## 🏅 Certifications and Learning Achievements
+
+### Certifications and Course Completions
+
+- 🧠 **Microsoft** — Transform Business Workflows with Generative AI
+- 🌐 **Cisco Networking Academy** — C++ Essentials 1
+- 🗄️ **Infosys Springboard** — Introduction to NoSQL Databases
+- ☕ **KnowledgeGate** — Complete Java Course; reported score: 98%
+- 🤖 **OneRoadmap** — AI & Machine Learning Basics
+
+### Skill Certification and Badges
+
+- ☕ **HackerRank** — Java (Basic) Skill Certification
+- 💻 **Microsoft Learn** — Employ Copilot Chat as your AI assistant
+
+*Credential links can be added to each item when available.*
 
 ---
 
 ## 📚 Currently Learning
 
-- ☕ Advanced Java and object-oriented programming
-- 🧩 Data Structures and Algorithms
-- 🌱 Spring Boot and REST API development
-- 🔐 Spring Security and authentication
-- 🗄️ SQL, database design, and integration
-- 🧪 Testing, validation, and maintainable code
-- 🤖 AI integration in software applications
+- Java fundamentals and advanced OOP
+- Collections, exception handling, and file handling
+- Data Structures and Algorithms
+- Spring Boot and REST API design
+- React and TypeScript
+- SQL and database design
+- Authentication, validation, and testing
+- AI integration in software applications
 
 ---
 
@@ -197,9 +246,11 @@ I build Java applications to strengthen Core Java, object-oriented programming, 
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Goal
 
-To become a Software Engineer specializing in Java and full-stack development, building reliable applications and intelligent systems. I am continuously improving my technical skills through hands-on projects, structured learning, and problem-solving practice.
+To become a Software Engineer specializing in Java and full-stack development, with the ability to build reliable applications and explore intelligent AI-powered solutions.
+
+I believe in learning by building, improving through feedback, and writing code that is understandable, testable, and maintainable.
 
 ---
 
@@ -217,8 +268,6 @@ To become a Software Engineer specializing in Java and full-stack development, b
   </a>
 </p>
 
----
-
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my projects and follow my learning journey.
+  ⭐ Thanks for visiting my profile. Feel free to explore my repositories!
 </p>
