@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Koushik Gowda K S</h1>
 
 <h3 align="center">Java Full-Stack Developer | Software Engineering Student | AI Enthusiast</h3>
@@ -26,7 +27,7 @@ I'm a Computer Science Engineering student at **S J C Institute of Technology, C
 - 💻 Developing practical Java applications and real-world systems.
 - 🤖 Exploring Generative AI and AI-assisted software development.
 - 🧠 Strengthening OOP, Data Structures and Algorithms, DBMS, and problem-solving.
-- 🚀 Currently participating in the **CodSoft Java Programming Virtual Internship**.
+- 🚀 Participating in the **CodSoft Java Programming Virtual Internship**.
 - 🎯 Goal: Build reliable, useful, and maintainable software.
 
 ---
@@ -39,13 +40,13 @@ I'm a Computer Science Engineering student at **S J C Institute of Technology, C
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" alt="Programming languages" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend technologies" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" alt="Backend technologies" />
@@ -66,7 +67,7 @@ I'm a Computer Science Engineering student at **S J C Institute of Technology, C
 - SQL and relational database concepts
 - MySQL and PostgreSQL
 - MongoDB and NoSQL concepts
-- Firebase and Firestore
+- Firebase, Firestore, and Supabase
 
 ### AI and Developer Tools
 
@@ -86,7 +87,7 @@ I'm a Computer Science Engineering student at **S J C Institute of Technology, C
 
 **Status:** Active Development
 
-An AI-powered career platform being developed to help candidates compare their resumes with job descriptions.
+An AI-powered career platform being developed to help candidates compare resumes with job descriptions.
 
 - 📄 Resume and job description analysis
 - 🎯 Skill matching and job-fit insights
@@ -137,29 +138,28 @@ A conversational AI project designed to help users explore career-related questi
 
 I use practical Java projects to strengthen programming fundamentals, application design, validation, and problem-solving.
 
-| Project | Repository |
-|---|---|
-| ATM System | [View project](https://github.com/koushik8369-ux/java-atm-system) |
-| Smart Shopping Cart | [View project](https://github.com/koushik8369-ux/smart-shopping-cart) |
-| Student Performance Analyzer | [View project](https://github.com/koushik8369-ux/student-performance-analyzer) |
-| Smart Parking System | [View project](https://github.com/koushik8369-ux/smart-parking) |
-| Smart Inventory Management System | [Browse repositories](https://github.com/koushik8369-ux?tab=repositories) |
-| Smart Waste Management System | [Browse repositories](https://github.com/koushik8369-ux?tab=repositories) |
+- Smart Inventory Management System
+- Smart Waste Management System
+- Library Management System
+- Hospital Appointment Scheduler
+- Bike Rental Billing System
+- Gym Membership System
+- Skill2Hire
+- Student Marks Analyzer
+- Electricity Bill Calculator
+- Bike Fuel Cost Calculator
+- Student Age Validator
+- College Student Utility System
 
-### More Java Practice
+🔗 [Explore all my repositories](https://github.com/koushik8369-ux?tab=repositories)
 
-- 🎮 Number Guessing Game — CodSoft Task 1
-- 📊 Student Grade Calculator — CodSoft Task 2
-- 📚 Library Management System
-- 🏥 Hospital Appointment Scheduler
-- 🚲 Bike Rental Billing System
-- ⚡ Electricity Bill Calculator
-- 🏋️ Gym Membership System
-- 🎓 Student Marks Analyzer
-- ⛽ Bike Fuel Cost Calculator
-- 👨‍🎓 Student Age Validator
+### CodSoft Java Programming Tasks
 
-🔗 [Explore all repositories](https://github.com/koushik8369-ux?tab=repositories)
+- 🎮 **Task 1 — Number Guessing Game:** Random number generation, hints, limited attempts, rounds, and score tracking.
+- 📊 **Task 2 — Student Grade Calculator:** Subject marks, total and average calculations, and grade display.
+- 🏧 **ATM Interface:** Console-based banking operations and input handling.
+
+🔗 [CodSoft Tasks Repository](https://github.com/koushik8369-ux/CODSOFT_TASKSNO)
 
 ---
 
@@ -170,22 +170,9 @@ I use practical Java projects to strengthen programming fundamentals, applicatio
 **Period:** 15 October – 15 November 2026  
 **Mode:** Virtual
 
-Currently working through Java programming tasks to apply Core Java concepts in practical applications.
+Applying Core Java concepts through practical programming tasks and improving code quality through hands-on implementation.
 
-**Task 1 — Number Guessing Game**
-- Random number generation
-- Higher/lower hints
-- Limited attempts and multiple rounds
-- Score tracking and input validation
-
-**Task 2 — Student Grade Calculator**
-- Subject mark input
-- Total and average calculations
-- Grade calculation and result display
-
-**Next focus:** Continue developing the assigned Java tasks and improving code quality.
-
-🔗 [GitHub Profile](https://github.com/koushik8369-ux)
+🔗 [View my GitHub repositories](https://github.com/koushik8369-ux?tab=repositories)
 
 ---
 
@@ -193,18 +180,18 @@ Currently working through Java programming tasks to apply Core Java concepts in 
 
 ### Certifications and Course Completions
 
-- 🧠 **Microsoft** — Transform Business Workflows with Generative AI
+- 🧠 **Microsoft** — Transform Business Workflows with Generative AI (2026)
 - 🌐 **Cisco Networking Academy** — C++ Essentials 1
 - 🗄️ **Infosys Springboard** — Introduction to NoSQL Databases
-- ☕ **KnowledgeGate** — Complete Java Course; reported score: 98%
+- ☕ **KnowledgeGate** — Complete Java Course (reported score: 98%)
 - 🤖 **OneRoadmap** — AI & Machine Learning Basics
 
-### Skill Certification and Badges
+### Skill Certifications and Badges
 
 - ☕ **HackerRank** — Java (Basic) Skill Certification
 - 💻 **Microsoft Learn** — Employ Copilot Chat as your AI assistant
 
-*Credential links can be added to each item when available.*
+*Add certificate verification links when available.*
 
 ---
 
@@ -247,7 +234,7 @@ Currently working through Java programming tasks to apply Core Java concepts in 
 
 ## 🎯 Career Goal
 
-To become a Software Engineer specializing in Java and full-stack development, with the ability to build reliable applications and explore intelligent AI-powered solutions.
+To become a Software Engineer specializing in Java and full-stack development, building reliable applications and exploring intelligent AI-powered solutions.
 
 I believe in learning by building, improving through feedback, and writing code that is understandable, testable, and maintainable.
 
