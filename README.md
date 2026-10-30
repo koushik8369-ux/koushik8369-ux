@@ -1,259 +1,245 @@
 
-<h1 align="center">Hi 👋, I'm Koushik Gowda K S</h1>
+<div align="center">
 
-<h3 align="center">Java Full-Stack Developer | Software Engineering Student | AI Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1D4ED8,70:7C3AED,100:06B6D4&height=220&section=header&text=Koushik%20Gowda%20K%20S&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student%20%7C%20AI%20Enthusiast&descSize=15&descAlignY=56&animation=fadeIn" alt="Koushik Gowda KS profile banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Real-World+Java+Applications;Learning+Spring+Boot+and+React;Exploring+AI-Powered+Applications;Turning+Ideas+Into+Code" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Java+%7C+Spring+Boot+%7C+React;Building+Real-World+Software;Exploring+AI-Powered+Applications;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Typing tagline" />
 
-<p align="center">
-  <a href="https://github.com/koushik8369-ux">
-    <img src="https://komarev.com/ghpvc/?username=koushik8369-ux&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/koushik-gowda-ks-552bb23ab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://github.com/koushik8369-ux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/koushik-gowda-ks-552bb23ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://candid-mooncake-ce0589.netlify.app"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=koushik8369-ux&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a Computer Science Engineering student at **S J C Institute of Technology, Chikkaballapur**, working toward a career in software engineering.
+> 💡 **My identity:** Java-focused software developer in progress, building full-stack applications and exploring how AI can make software more useful.
 
-- ☕ Focused on Java and full-stack development.
-- 🌱 Learning Spring Boot, REST APIs, React, and TypeScript.
-- 💻 Developing practical Java applications and real-world systems.
-- 🤖 Exploring Generative AI and AI-assisted software development.
-- 🧠 Strengthening OOP, Data Structures and Algorithms, DBMS, and problem-solving.
-- 🚀 Participating in the **CodSoft Java Programming Virtual Internship**.
-- 🎯 Goal: Build reliable, useful, and maintainable software.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" alt="Programming languages" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend technologies" />
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" alt="Backend technologies" />
-</p>
-
-- Java and Object-Oriented Programming
-- Spring Boot and Spring Security
-- REST API development
-- Authentication and authorization
-- Exception handling and input validation
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Database technologies" />
-</p>
-
-- SQL and relational database concepts
-- MySQL and PostgreSQL
-- MongoDB and NoSQL concepts
-- Firebase, Firestore, and Supabase
-
-### AI and Developer Tools
-
-- Google Gemini API
-- Generative AI and prompt engineering
-- Git and GitHub
-- VS Code
-- Linux
-- Figma
-- Maven
+- 🎓 Computer Science Engineering student at **S J C Institute of Technology, Chikkaballapur**
+- ☕ Focused on **Java, Spring Boot, REST APIs, and backend engineering**
+- 🎨 Building user interfaces with **React, Vite, JavaScript, and TypeScript**
+- 🗄️ Practicing database development with **MySQL, PostgreSQL, MongoDB, and Firebase**
+- 🤖 Exploring **Generative AI, Google Gemini, and AI-assisted applications**
+- 🧠 Improving **OOP, Data Structures & Algorithms, DBMS, testing, and problem-solving**
+- 🚀 Learning by building practical projects and iterating on them
 
 ---
 
-## 🚀 Featured Projects
+## 🎨 My Developer Stack
 
-### 1. JOBFIT AI — Career and Job-Fit Analysis
+<div align="center">
 
-**Status:** Active Development
+### ☕ Languages
 
-An AI-powered career platform being developed to help candidates compare resumes with job descriptions.
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&perline=6" alt="Programming languages" />
 
-- 📄 Resume and job description analysis
-- 🎯 Skill matching and job-fit insights
-- 🔍 Identification of missing skills
+### 🖥️ Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&perline=5" alt="Frontend technologies" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&perline=4" alt="Backend technologies" />
+
+### 🗃️ Databases and Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vscode,linux,figma&perline=5" alt="Databases and developer tools" />
+
+</div>
+
+**Also working with:** Spring Security · REST APIs · JPA · Supabase · Firestore · Google Gemini API · Generative AI · Prompt Engineering
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔷 JOBFIT AI</h3>
+
+**Career & Job-Fit Analysis Platform**
+
+`Java` `Spring Boot` `React` `MySQL`
+
+A platform in active development to compare candidate resumes with job descriptions and identify skill gaps.
+
+- 📄 Resume and job-description analysis
+- 🎯 Job-fit and skill-matching insights
 - 💡 Career improvement recommendations
-- 👤 User authentication and dashboard development
+- 🔐 Authentication and dashboard development
 
-**Technologies:** Java, Spring Boot, Spring Security, React, Vite, REST APIs, MySQL.
+**Status:** 🟡 Active Development
 
-🔗 [View JOBFIT AI on GitHub](https://github.com/koushik8369-ux/jobfit-ai)
+<a href="https://github.com/koushik8369-ux/jobfit-ai">🔗 Explore Repository</a>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 2. CodeMentor AI — Coding and Interview Preparation
+<h3>🟣 CodeMentor AI</h3>
 
-**Status:** In Progress
+**Coding & Interview Preparation**
 
-An AI-assisted project focused on coding practice and interview preparation.
+`Java 21` `Spring Boot` `React` `PostgreSQL` `Gemini`
 
-- 💻 Programming and algorithm practice
+An AI-assisted project focused on coding practice, algorithms, and interview preparation.
+
+- 💻 Coding and problem-solving practice
 - 🎯 Interview preparation features
 - 🤖 AI-assisted learning support
-- 🧠 Problem-solving and complexity analysis
+- 🧠 Algorithm and complexity analysis
 
-**Technologies:** Java 21, Spring Boot, React, TypeScript, PostgreSQL, Supabase, Google Gemini, Maven.
+**Status:** 🟡 In Progress
 
-🔗 [View CodeMentor AI on GitHub](https://github.com/koushik8369-ux/CodeMentorAI)
+<a href="https://github.com/koushik8369-ux/CodeMentorAI">🔗 Explore Repository</a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 3. CareerLens AI Assistant — Career Guidance Chatbot
+<h3>🟢 CareerLens AI Assistant</h3>
 
-**Status:** Building
+**AI Career Guidance Chatbot**
 
-A conversational AI project designed to help users explore career-related questions and guidance.
+`Conversational AI` `Web Application`
+
+A web-based conversational assistant being built to help users explore career-related questions.
 
 - 🤖 AI-assisted conversations
 - 💬 Career-related question support
-- 🌐 Web-based chat experience
+- 🌐 Interactive chat experience
 
-🔗 [GitHub Repository](https://github.com/koushik8369-ux/careerlens-chatbot)
+**Status:** 🟡 Building
 
-🌐 [Open Live Application](https://careerlens-ai-assistant.ai.studio/)
+<a href="https://github.com/koushik8369-ux/careerlens-chatbot">🔗 GitHub Repository</a>
 
----
+<br/>
 
-## ☕ Java Projects
+<a href="https://careerlens-ai-assistant.ai.studio/">🌐 Live Application</a>
 
-I use practical Java projects to strengthen programming fundamentals, application design, validation, and problem-solving.
+</td>
+<td width="50%" valign="top">
 
-- Smart Inventory Management System
-- Smart Waste Management System
-- Library Management System
-- Hospital Appointment Scheduler
-- Bike Rental Billing System
-- Gym Membership System
-- Skill2Hire
-- Student Marks Analyzer
-- Electricity Bill Calculator
-- Bike Fuel Cost Calculator
-- Student Age Validator
-- College Student Utility System
+<h3>🧩 Java Real-World Systems</h3>
 
-🔗 [Explore all my repositories](https://github.com/koushik8369-ux?tab=repositories)
+**Learning through practical projects**
 
-### CodSoft Java Programming Tasks
+`Core Java` `OOP` `Validation` `Testing`
 
-- 🎮 **Task 1 — Number Guessing Game:** Random number generation, hints, limited attempts, rounds, and score tracking.
-- 📊 **Task 2 — Student Grade Calculator:** Subject marks, total and average calculations, and grade display.
-- 🏧 **ATM Interface:** Console-based banking operations and input handling.
+Practical Java exercises and systems designed to strengthen programming fundamentals.
 
-🔗 [CodSoft Tasks Repository](https://github.com/koushik8369-ux/CODSOFT_TASKSNO)
+- 📦 Smart Inventory Management System
+- ♻️ Smart Waste Management System
+- 📚 Library Management System
+- 🏥 Hospital Appointment Scheduler
+
+<a href="https://github.com/koushik8369-ux?tab=repositories">🔗 Browse All Repositories</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Internship and Learning
+## ☕ Java Practice & Internship Tasks
 
-### CodSoft — Java Programming Virtual Internship
+| Project / Task | What it demonstrates |
+|---|---|
+| 🎮 Number Guessing Game | Random numbers, loops, attempts, and score tracking |
+| 📊 Student Grade Calculator | Marks input, totals, averages, and grade calculation |
+| 🏧 ATM Interface | Menu-driven logic and input handling |
+| 🚲 Bike Rental Billing System | OOP and billing calculations |
+| ⚡ Electricity Bill Calculator | Conditional logic and calculations |
+| 🏋️ Gym Membership System | Classes and membership logic |
+| 🎓 Student Marks Analyzer | Arrays and result analysis |
+| ⛽ Bike Fuel Cost Calculator | Input handling and calculations |
+| 👨‍🎓 Student Age Validator | Validation and conditional logic |
+| 🏫 College Student Utility System | Student utilities and record handling |
 
-**Period:** 15 October – 15 November 2026  
-**Mode:** Virtual
-
-Applying Core Java concepts through practical programming tasks and improving code quality through hands-on implementation.
-
-🔗 [View my GitHub repositories](https://github.com/koushik8369-ux?tab=repositories)
+🔗 **[CodSoft Tasks Repository](https://github.com/koushik8369-ux/CODSOFT_TASKSNO)** · **[All GitHub Repositories](https://github.com/koushik8369-ux?tab=repositories)**
 
 ---
 
-## 🏅 Certifications and Learning Achievements
+## 🏅 Certifications & Learning
 
-### Certifications and Course Completions
+<div align="center">
 
-- 🧠 **Microsoft** — Transform Business Workflows with Generative AI (2026)
-- 🌐 **Cisco Networking Academy** — C++ Essentials 1
-- 🗄️ **Infosys Springboard** — Introduction to NoSQL Databases
-- ☕ **KnowledgeGate** — Complete Java Course (reported score: 98%)
-- 🤖 **OneRoadmap** — AI & Machine Learning Basics
+<img src="https://img.shields.io/badge/Microsoft-Generative%20AI-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Generative AI" />
+<img src="https://img.shields.io/badge/Cisco-C%2B%2B%20Essentials%201-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco C++ Essentials" />
+<img src="https://img.shields.io/badge/Infosys-Introduction%20to%20NoSQL-2563EB?style=for-the-badge" alt="Infosys NoSQL" />
+<img src="https://img.shields.io/badge/KnowledgeGate-Complete%20Java%20Course-16A34A?style=for-the-badge" alt="KnowledgeGate Java course" />
+<img src="https://img.shields.io/badge/OneRoadmap-AI%20%26%20ML%20Basics-7C3AED?style=for-the-badge" alt="OneRoadmap AI and ML" />
+<img src="https://img.shields.io/badge/HackerRank-Java%20Basic-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java Basic" />
+<img src="https://img.shields.io/badge/Microsoft%20Learn-Copilot%20Chat-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Copilot Chat" />
 
-### Skill Certifications and Badges
+</div>
 
-- ☕ **HackerRank** — Java (Basic) Skill Certification
-- 💻 **Microsoft Learn** — Employ Copilot Chat as your AI assistant
+- 🧠 **Microsoft:** Transform Business Workflows with Generative AI (2026)
+- 🌐 **Cisco Networking Academy:** C++ Essentials 1
+- 🗄️ **Infosys Springboard:** Introduction to NoSQL Databases
+- ☕ **KnowledgeGate:** Complete Java Course *(reported score: 98%)*
+- 🤖 **OneRoadmap:** AI & Machine Learning Basics
+- 💻 **HackerRank:** Java (Basic) Skill Certification
+- 🪟 **Microsoft Learn:** Employ Copilot Chat as your AI assistant
 
 *Add certificate verification links when available.*
 
 ---
 
-## 📚 Currently Learning
+## 📚 Current Learning Focus
 
-- Java fundamentals and advanced OOP
-- Collections, exception handling, and file handling
-- Data Structures and Algorithms
-- Spring Boot and REST API design
-- React and TypeScript
-- SQL and database design
-- Authentication, validation, and testing
-- AI integration in software applications
+<div align="center">
 
----
+| Focus | Current direction |
+|---|---|
+| ☕ Java | OOP, Collections, Exceptions, File Handling |
+| ⚙️ Backend | Spring Boot, Spring Security, REST APIs |
+| 🎨 Frontend | React, Vite, TypeScript |
+| 🗃️ Databases | SQL, PostgreSQL, MySQL, NoSQL |
+| 🧪 Engineering | Testing, validation, clean code |
+| 🤖 AI | Gemini API and AI-powered features |
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=koushik8369-ux&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik8369-ux&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=koushik8369-ux&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
+</div>
 
 ---
 
-## 🎯 Career Goal
+## 📈 GitHub at a Glance
 
-To become a Software Engineer specializing in Java and full-stack development, building reliable applications and exploring intelligent AI-powered solutions.
+<div align="center">
 
-I believe in learning by building, improving through feedback, and writing code that is understandable, testable, and maintainable.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=koushik8369-ux&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik8369-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=koushik8369-ux&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 My Goal
 
-<p align="center">
-  <a href="https://github.com/koushik8369-ux">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/koushik-gowda-ks-552bb23ab">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://candid-mooncake-ce0589.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+Build a strong foundation as a **Java Full-Stack Software Engineer** by combining backend engineering, thoughtful frontend experiences, database skills, and practical AI integration.
 
-<p align="center">
-  ⭐ Thanks for visiting my profile. Feel free to explore my repositories!
-</p>
+> **Learn continuously. Build consistently. Solve real problems.**
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://github.com/koushik8369-ux"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/koushik-gowda-ks-552bb23ab"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://candid-mooncake-ce0589.netlify.app"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-14B8A6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0F172A&height=110&section=footer" alt="Colorful footer" />
+
+</div>
